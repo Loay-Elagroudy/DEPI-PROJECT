@@ -9,12 +9,6 @@ This repository is the production build of a two-milestone research project. **O
 assumed already complete and are represented solely by the cleaned input file,
 `data/processed_corpus_5000.csv`.
 
-![Status](https://img.shields.io/badge/status-production--ready-brightgreen)
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/backend-FastAPI-009688)
-![Streamlit](https://img.shields.io/badge/frontend-Streamlit-FF4B4B)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
 ## Screenshots
 
 > _Add screenshots here after your first local run:_
