@@ -114,7 +114,3 @@ same metrics — reorganized into typed, documented, testable modules. See
 2. Keep RAG/evaluation/optimization logic behavior-identical unless explicitly asked to change it.
 3. Add/update tests for any new backend code.
 4. Open a PR describing the change and why.
-
-## License
-
-MIT — see [`LICENSE`](LICENSE).
