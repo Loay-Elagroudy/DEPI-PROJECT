@@ -1,0 +1,5 @@
+# Root convenience file -- installs both backend and frontend dependencies.
+# For isolated installs, prefer `backend/requirements.txt` and
+# `frontend/requirements.txt` in separate virtual environments.
+-r backend/requirements.txt
+-r frontend/requirements.txt
